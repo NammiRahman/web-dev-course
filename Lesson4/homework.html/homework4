@@ -1,0 +1,26 @@
+<Doctype.html>
+<html>
+    <head>
+        <title>html list</title>
+    </head>
+    <body>
+      <h3>html list</h3> 
+      <h4>ordered list</h4> 
+      <ol>
+        <li>singing</li>
+        <li>swiming</li>
+        <li>dancing</li>
+        <li>cooking</li>
+        <li>gardening</li>
+      </ol>
+      <h4>unordered list</h4>
+      <ul>
+        <li>black coffee</li>
+        <li>corn soup </li>
+        <li>vegetables</li>
+        <li>fruits</li>
+        <li>noodles</li>
+      </ul>
+      
+      
+    </body>
