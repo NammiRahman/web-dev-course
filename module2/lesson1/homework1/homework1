@@ -1,0 +1,29 @@
+<Doctype.html>
+<html>
+    <head>
+        <!--tnternal css-->
+        <style>
+            p {
+                color: crimson;
+            }
+        </style>
+        
+          
+        
+        <title>CSS</title>
+        <link rel="stylesheet" href="style.CSS">
+    </head>
+    <body>
+        <!--inline css-->
+        <h1 class="Prova" style="color: brown;">Intruduction to CSS</h1>
+        <p id="Zeba" style="color: aqua;">CSS stands for Cascading style sheet</p>
+        <p id="Samia" style="color: aqua;">There are three types of CSS.</p>
+        <ul>
+            <h2 style="color: chartreuse;">Types Of CSS</h2>
+            <li style="color: chocolate;">INLINE CSS</li>
+            <li style="color: cornflowerblue;">INTERNAL CSS</li>
+            <li style="color: darkblue;">EXTERNAL CSS</li>
+        </ul>
+    </body>
+
+    
